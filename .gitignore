@@ -1,0 +1,3 @@
+# Ignorar a máquina virtual
+venv/
+__pycache__/
